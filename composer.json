@@ -1,0 +1,26 @@
+{
+  "name": "alfaluck/asynci",
+  "type": "library",
+  "description": "Asynchronous things for CodeIgniter framework",
+  "version": "0.0.1-dev",
+  "keywords": ["async","php", "codeigniter", "guzzle", "promise"],
+  "homepage": "https://github.com/alfaluck/asynci",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Anton Shedlovsky",
+      "email": "alfaluck@gmail.com",
+      "homepage": "https://alfaluck.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.5.0 || ^7.0",
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alfaluck\\AsynCI\\": "src/"
+    }
+  }
+}
