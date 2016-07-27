@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "php": "^5.5.0 || ^7.0",
+    "php": "^7.0",
     "react/stream": "^0.4.3",
     "react/event-loop": "^0.4.2",
     "react/promise": "^2.4"
