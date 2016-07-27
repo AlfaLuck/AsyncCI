@@ -6,7 +6,7 @@
  * Time: 15:15
  */
 
-namespace Alfaluck\AsynCI;
+namespace Alfaluck\AsynCI\Libraries;
 
 class Email
 {

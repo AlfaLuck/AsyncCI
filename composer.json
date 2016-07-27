@@ -16,7 +16,9 @@
   ],
   "require": {
     "php": "^5.5.0 || ^7.0",
-    "guzzlehttp/guzzle": "^6.2"
+    "react/stream": "^0.4.3",
+    "react/event-loop": "^0.4.2",
+    "react/promise": "^2.4"
   },
   "autoload": {
     "psr-4": {
